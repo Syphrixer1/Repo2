@@ -10,7 +10,7 @@ If we divide 20 by 5:
 
 20 / 5 = 4
 
-To prove this with subtraction, it is 
+##To prove this with subtraction, it is 
 20 - 5 = 15
 15 - 5 = 10
 10 - 5 = 5
