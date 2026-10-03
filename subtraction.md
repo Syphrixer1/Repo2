@@ -1,5 +1,5 @@
 # Subtraction of Two Integers
-Subtraction means separating two integer values.
+Subtraction means removing one integer from another to get the result.
 
 Example:
 
